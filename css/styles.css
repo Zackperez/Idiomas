@@ -76,7 +76,7 @@ h1{
 
 #servicios{
 
-	height: 80vh;
+	height: 90vh;
 	width: 100%;
 }
 
@@ -98,10 +98,15 @@ h1{
 }
 
 .servicios-h3{
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
-/*----------------------- SECCION SERVICIOS -----------------------*/
+.servicios-p{
+	text-align: center;
+	font-size: 30px;
+}
+
+/*----------------------- SECCION TABLA -----------------------*/
 
 #mejores{
 	height: 80vh;
@@ -115,51 +120,51 @@ h1{
 
 	/*--------------- SECCION PRINCIPAL ---------------*/
 
-.central-imagen{
-	height: 50vh;
-	max-width: 100%;
-	margin-top: 10px;
-}
+	.central-imagen{
+		height: 50vh;
+		max-width: 100%;
+		margin-top: 10px;
+	}
 
-.central-h1{
-	font-size: 50px;
-	margin-top: 0;
-	font-weight: bold;
-	text-transform: uppercase;
-}
+	.central-h1{
+		font-size: 50px;
+		margin-top: 0;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
 
-.btn-primary{
-	margin-top: 20px;
-}
+	.btn-primary{
+		margin-top: 20px;
+	}
 
-.ola{
-	height: 10vh;
-	width: 100%;
-}
+	.ola{
+		height: 10vh;
+		width: 100%;
+	}
 
 
-/*--------------- SECCION SERVICIOS ---------------*/
+	/*--------------- SECCION SERVICIOS ---------------*/
 
-#servicios{
-	height: 100%;
-}
-.servicios-h3{
-	margin-top: 10px;
-}
-/*--------------- SECCION SERVICIOS ---------------*/
+	#servicios{
+		height: 100%;
+	}
+	.servicios-h3{
+		margin-top: 10px;
+	}
+	/*--------------- SECCION SERVICIOS ---------------*/
 
-#mejores{
+	#mejores{
 
-}
+	}
 
-.mejores-h1{
-	margin-top: 0px;
-	text-align: center;
-}
+	.mejores-h1{
+		margin-top: 0px;
+		text-align: center;
+	}
 
-.mejores-h3{
-	text-align: center;
-}
+	.mejores-h3{
+		text-align: center;
+	}
 
 
 }
